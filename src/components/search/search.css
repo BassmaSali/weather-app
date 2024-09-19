@@ -1,0 +1,24 @@
+/* search.css */
+.custom-search {
+    width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
+  }
+  
+  .custom-select__control {
+    background-color: rgb(24, 32, 45) !important; /* Change to your desired color */
+    border-color: white !important; /* Change to your desired border color */
+  }
+  
+  .custom-select__placeholder {
+    color: rgb(24, 32, 45) !important; /* Change to your desired placeholder color */
+  }
+  
+  .custom-select__input {
+    color: rgb(24, 32, 45)!important; /* Change to your desired input text color */
+  }
+  
+  .custom-select__single-value {
+    color: rgb(24, 32, 45) !important; /* Change to your desired selected value color */
+  }
+  
